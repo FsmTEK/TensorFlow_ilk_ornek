@@ -1,2 +1,2 @@
-# TensorFlow_ilk_ornek
+# TensorFlow İlk Örnek
 TensorFlow Başlangıc Örneği
